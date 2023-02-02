@@ -1,4 +1,4 @@
-# Awesome Backend Engineer
+# ECCI GitHub
 
 **EN**
 A curated **and opinionated** list of resources (English & Russian) for Backend developers that will help you orginize & structure your learning path and knowledges. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
